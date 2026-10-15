@@ -1,0 +1,45 @@
+:root {
+  --three-red: #c91f2f;
+  --three-blue: #1e6fe0;
+}
+
+.three-red,
+.three-blue {
+  font: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  display: inline;
+}
+
+.three-red {
+  color: var(--three-red) !important;
+}
+
+.three-blue {
+  color: var(--three-blue) !important;
+}
+
+input .three-red,
+input .three-blue,
+textarea .three-red,
+textarea .three-blue,
+select .three-red,
+select .three-blue,
+option .three-red,
+option .three-blue,
+code .three-red,
+code .three-blue,
+pre .three-red,
+pre .three-blue,
+kbd .three-red,
+kbd .three-blue,
+samp .three-red,
+samp .three-blue,
+var .three-red,
+var .three-blue,
+tt .three-red,
+tt .three-blue {
+  color: inherit !important;
+}

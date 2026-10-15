@@ -1,0 +1,23 @@
+{
+  "THREE.Module.Title": "3",
+  "THREE.Module.Description": "3.",
+  "THREE.Settings.Enabled.Name": "Enable",
+  "THREE.Settings.Enabled.Hint": "Turning off clears all color highlights.",
+  "THREE.Settings.PatternRed.Name": "Red pattern",
+  "THREE.Settings.PatternRed.Hint": "Regular expression; matched text is shown in red.",
+  "THREE.Settings.ColorRed.Name": "Red",
+  "THREE.Settings.ColorRed.Hint": "Default #c91f2f.",
+  "THREE.Settings.PatternBlue.Name": "Blue pattern",
+  "THREE.Settings.PatternBlue.Hint": "Regular expression; matched text is shown in blue.",
+  "THREE.Settings.ColorBlue.Name": "Blue",
+  "THREE.Settings.ColorBlue.Hint": "Default #1e6fe0.",
+  "THREE.Settings.Snapshot.Name": "Config snapshot (internal)",
+  "THREE.Notification.Enabled": "Enabled.",
+  "THREE.Notification.Disabled": "Disabled.",
+  "THREE.Notification.Rescan": "Rescanned.",
+  "THREE.Notification.RedPatternChanged": "Red rule updated: {pattern}",
+  "THREE.Notification.BluePatternChanged": "Blue rule updated: {pattern}",
+  "THREE.Notification.InvalidPattern": "Invalid regular expression.",
+  "THREE.Notification.InvalidColor": "Invalid color.",
+  "THREE.Notification.InvalidPatternFallback": "Invalid regex, reverted to default."
+}

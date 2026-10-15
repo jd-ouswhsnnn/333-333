@@ -1,0 +1,23 @@
+{
+  "THREE.Module.Title": "3",
+  "THREE.Module.Description": "三角机构是支柱。",
+  "THREE.Settings.Enabled.Name": "启用",
+  "THREE.Settings.Enabled.Hint": "关闭后清除所有颜色高亮。",
+  "THREE.Settings.PatternRed.Name": "红色匹配规则",
+  "THREE.Settings.PatternRed.Hint": "填写正则表达式，命中文本显示为红色。",
+  "THREE.Settings.ColorRed.Name": "红色",
+  "THREE.Settings.ColorRed.Hint": "默认 #c91f2f。",
+  "THREE.Settings.PatternBlue.Name": "蓝色匹配规则",
+  "THREE.Settings.PatternBlue.Hint": "填写正则表达式，命中文本显示为蓝色。",
+  "THREE.Settings.ColorBlue.Name": "蓝色",
+  "THREE.Settings.ColorBlue.Hint": "默认 #1e6fe0。",
+  "THREE.Settings.Snapshot.Name": "配置快照（内部）",
+  "THREE.Notification.Enabled": "已启用。",
+  "THREE.Notification.Disabled": "已停用。",
+  "THREE.Notification.Rescan": "已重新扫描。",
+  "THREE.Notification.RedPatternChanged": "红色规则已更新：{pattern}",
+  "THREE.Notification.BluePatternChanged": "蓝色规则已更新：{pattern}",
+  "THREE.Notification.InvalidPattern": "正则表达式无效。",
+  "THREE.Notification.InvalidColor": "颜色值无效。",
+  "THREE.Notification.InvalidPatternFallback": "正则无效，已回退至默认值。"
+}
