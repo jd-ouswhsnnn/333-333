@@ -1,5 +1,5 @@
-const MODULE_ID = "3";
-const SOCKET_NAME = "module.3";
+const MODULE_ID = "333-333";
+const SOCKET_NAME = "module.333-333";
 
 const RED_CLASS = "three-red";
 const BLUE_CLASS = "three-blue";
