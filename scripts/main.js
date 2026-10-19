@@ -7,7 +7,7 @@ const RED_VAR = "--three-red";
 const BLUE_VAR = "--three-blue";
 
 const DEFAULTS = {
-  patternRed: "3|٣|३|๓|３|③|⑶|³|₃|Ⅲ|ⅲ|三|叁|参|弎|仨|𐒣|𒐈|௩|౩|೩|൩|᥉|꧓|᠓|𑁩|𝟑|𝟛|𝟥|𝟹|▲|▼|△|▽|机构|[Tt][Hh][Rr][Ee][Ee]",
+  patternRed: "3|٣|३|๓|３|③|⑶|³|₃|Ⅲ|ⅲ|三|叁|弎|仨|𐒣|𒐈|௩|౩|೩|൩|᥉|꧓|᠓|𑁩|𝟑|𝟛|𝟥|𝟹|▲|▼|△|▽|机构|[Tt][Hh][Rr][Ee][Ee]",
   colorRed: "#c91f2f",
   patternBlue: "异常体|异常",
   colorBlue: "#1e6fe0"
